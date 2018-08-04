@@ -39,6 +39,7 @@
     "babel-register": "^6.9.0",
     "babelify": "^7.3.0",
     "browserify": "^13.0.1",
+    "eslint": "^5.2.0",
     "gulp": "^3.9.1",
     "gulp-if": "^2.0.1",
     "gulp-live-server": "0.0.29",
