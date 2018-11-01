@@ -1,5 +1,7 @@
 #This server was created using the react express starter kit framework.
 
+this project resulted from going throught the following tutorial plus modifications.
+
 ---
 
 # react-express-starter-kit
